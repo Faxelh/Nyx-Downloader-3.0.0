@@ -22,7 +22,7 @@ requise — tout est inclus dans l'installateur.
 
 ## Installation
 
-1. Télécharger `NyxDownloader-Setup.exe`.
+1. Télécharger [![Telecharger](https://img.shields.io/twitter/follow/Faxel.svg?label=NyxDownloader-Setup.exe&logo=twitter)](https://raw.githubusercontent.com/Faxelh/Nyx-Downloader-2.0/refs/heads/main/NyxDownloader-Setup.exe)
 2. Double-cliquer et suivre l'assistant d'installation.
 3. Lancer "Nyx Downloader" depuis le menu Démarrer ou le raccourci Bureau.
 
