@@ -1,4 +1,4 @@
-# Nyx Downloader 2.0
+# Nyx Downloader 3.0.0
 
 Application Windows pour télécharger facilement des vidéos et audios depuis
 YouTube, Facebook, TikTok, Instagram, X, Dailymotion et d'autres sites, avec
